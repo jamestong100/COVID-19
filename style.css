@@ -1,0 +1,15 @@
+﻿body {
+    background-color: rgb(33, 37, 58);
+    color: snow;
+    text-shadow: black;
+}
+
+.country{
+    fill: rgb(44, 48, 51);
+    stroke: rgb(14, 16, 20);
+
+}
+
+.countryOn{
+    fill: rgb(103, 128, 139);
+}
